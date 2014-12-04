@@ -8,8 +8,6 @@
 
 import sys, os, shutil
 
-#m3u, dest = sys.argv[1:3]
-
 cwd = os.getcwd()
 
 #process m3u playlist
